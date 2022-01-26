@@ -6,6 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `npm run create`
+
+You can create a react functional component using this command. This will create folder according to your input name. This will create [folder(name)] -> -> .tsx with react function code in it and .css that already imported into .tsx file. This will also export all components from global.js that will be creaeted automatically in your src folder. you can directly import {all components using their names} from "../global"
+
 ### `npm install`
 
 Install all dependencies required for the project.
